@@ -75,6 +75,21 @@
              45.500966
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Rain or Shine Coffeehouse",
+            "Address": "5941 SE Division St Portland, OR 97206",
+            "Notes": "Near Mt Tabor"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.601816,
+                45.505664  
+            ]
+        }
     }
-  ]
+    ]
 }
