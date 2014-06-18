@@ -61,5 +61,20 @@
         ]
       }
     }
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "SouthEast Grind",
+            "Address": "1223 SE Powell Blvd, Portland, OR 97202",
+            "Notes": "Open 24 hours!"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+             -122.652459,
+             45.500966
+            ]
+        }
+    }
   ]
 }
